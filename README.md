@@ -1,10 +1,9 @@
-# FUTURE_DS_02
-Power BI Dashboard analyzing marketing campaign performance and efficiency.
+# FUTURE_DS_01
 This repository contains my submission for **Task 1** of the FUTURE Data Science & Analytics Internship.  
 The goal was to clean a raw sales dataset and build an interactive Power BI dashboard to uncover trends in product sales and customer purchasing behavior.
 
 ---
-
+https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data
 ### 🧹 Data Preparation
 The raw dataset (`Sales Transaction v.4a.csv`) was cleaned and preprocessed using **Python (pandas)** before analysis.
 The Steps I Took:
